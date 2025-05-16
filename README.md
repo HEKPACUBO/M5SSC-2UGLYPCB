@@ -15,3 +15,8 @@ Custom PCB for M5Stack Stick C Plus 2 for CC1101, NRF24, IRTx, SD Card, RFID con
 | 9  | 26-28AWG Cable     | N/A     | 1   | Silicone sleeve recommended (0,5m is enough) |
 | 10 | SS12SDH2           | NKK     | 2   | 2-way SPDT Switch (on-on) 3 pin     |
 | 11 | MicroSD Shield     | N/A     | 1   | TF Connection                       |
+
+
+* - You can use straight version (PBS-8) and place it on face side if needed
+** - You can avoid this connectors and solder your modules directly to PCB for a more compact build
+*** - Used if you need to make a removable cable
